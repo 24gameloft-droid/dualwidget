@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="60dp" android:minHeight="60dp"
+    android:minResizeWidth="60dp" android:minResizeHeight="60dp"
+    android:maxResizeWidth="2000dp" android:maxResizeHeight="2000dp"
+    android:updatePeriodMillis="0"
+    android:initialLayout="@layout/folder_widget"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen"/>
